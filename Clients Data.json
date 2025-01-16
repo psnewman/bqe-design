@@ -134,5 +134,32 @@
     "MD",
     "CO",
     "OR"
+  ],
+  "Stage": [
+    "Client",
+    "Prospect",
+    "Lead"
+  ],
+  "Contacts": [
+    "Alexander Thompson",
+    "Benjamin Walker",
+    "Catherine Martinez",
+    "Daniel Anderson",
+    "Elizabeth Chen",
+    "Frank Rodriguez",
+    "Grace Kim",
+    "Henry Wilson",
+    "Isabella Garcia",
+    "Jack Taylor",
+    "Katherine Lee",
+    "Lucas Brown",
+    "Mia Johnson",
+    "Nathan Davis",
+    "Olivia Miller",
+    "Peter Wright",
+    "Quinn Parker",
+    "Rachel Adams",
+    "Samuel White",
+    "Victoria Moore"
   ]
 }
