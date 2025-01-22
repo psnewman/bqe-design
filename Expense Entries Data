@@ -131,7 +131,7 @@
     "Schedule update",
     "Next steps defined"
   ],
-  "Tax 1": [
+  "Tax1": [
     "1.45",
     "2.35",
     "1.85",
@@ -153,7 +153,7 @@
     "1.05",
     "2.05"
   ],
-  "Tax 2": [
+  "Tax2": [
     "3.45",
     "4.35",
     "3.85",
@@ -175,7 +175,7 @@
     "3.05",
     "4.05"
   ],
-  "Tax 3": [
+  "Tax3": [
     "5.45",
     "6.35",
     "5.85",
@@ -197,7 +197,7 @@
     "5.05",
     "6.05"
   ],
-  "Cost Rate": [
+  "CostRate": [
     "$0.00",
     "$31.12",
     "$31.12",
@@ -219,7 +219,7 @@
     "$200.75",
     "$225.00"
   ],
-  "Cost Amount": [
+  "CostAmount": [
     "$0.00",
     "$31.12",
     "$31.12",
@@ -241,7 +241,7 @@
     "$652.44",
     "$1,068.75"
   ],
-  "Credit Card": [
+  "CreditCard": [
     "1005 : Amex Corporate Card",
     "1006 : Visa Corporate Card",
     "1007 : Mastercard Corporate Card",
@@ -263,7 +263,7 @@
     "1023 : Amex Executive Card",
     "1024 : Visa Executive Card"
   ],
-  "Check Number": [
+  "CheckNumber": [
     "CHK10051",
     "CHK10052",
     "CHK10053",
@@ -285,7 +285,7 @@
     "CHK10069",
     "CHK10070"
   ],
-  "Vendor Bill Number": [
+  "VendorBillNumber": [
     "VB-2025-001",
     "VB-2025-002",
     "VB-2025-003",
@@ -307,7 +307,7 @@
     "VB-2025-019",
     "VB-2025-020"
   ],
-  "Invoice Number": [
+  "InvoiceNumber": [
     "INV-25-0101",
     "INV-25-0102",
     "INV-25-0103",
@@ -350,5 +350,49 @@
     "Lake Tahoe Developments",
     "Redwood Preservation Trust",
     "Bay Area Innovation Hub"
+  ],
+  "Income Account": [
+    "4900 : Expense Income",
+    "4900 : Expense Income",
+    "4900 : Expense Income",
+    "4900 : Expense Income",
+    "4900 : Expense Income",
+    "4900 : Expense Income",
+    "4900 : Expense Income",
+    "4900 : Expense Income",
+    "4900 : Expense Income",
+    "4900 : Expense Income",
+    "4900 : Expense Income",
+    "4900 : Expense Income",
+    "4900 : Expense Income",
+    "4900 : Expense Income",
+    "4900 : Expense Income",
+    "4900 : Expense Income",
+    "4900 : Expense Income",
+    "4900 : Expense Income",
+    "4900 : Expense Income",
+    "4900 : Expense Income"
+  ],
+  "Expense Account": [
+    "4900 : Expense Income",
+    "6265 : Printing and Reproduction",
+    "6130 : Car/Truck Expense",
+    "6265 : Printing and Reproduction",
+    "4900 : Expense Income",
+    "6265 : Printing and Reproduction",
+    "6130 : Car/Truck Expense",
+    "6265 : Printing and Reproduction",
+    "6130 : Car/Truck Expense",
+    "6265 : Printing and Reproduction",
+    "6130 : Car/Truck Expense",
+    "6265 : Printing and Reproduction",
+    "6130 : Car/Truck Expense",
+    "6265 : Printing and Reproduction",
+    "6130 : Car/Truck Expense",
+    "6265 : Printing and Reproduction",
+    "6130 : Car/Truck Expense",
+    "6265 : Printing and Reproduction",
+    "6130 : Car/Truck Expense",
+    "6265 : Printing and Reproduction"
   ]
 }
